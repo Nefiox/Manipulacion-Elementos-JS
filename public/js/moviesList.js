@@ -1,5 +1,5 @@
 let body = document.querySelector('body');
-let h1 = document.querySelector('h1')
+let h1 = document.querySelector('h1');
 
 let darkMode = confirm('¿Desea modo oscuro?');
 
